@@ -17,7 +17,7 @@ Windows 10 or later, 64-bit macOS 10.15+ (for Intel) or 64-bit macOS 11.1+ (for 
 6. Select a destination folder to install Anaconda, then click Next.
 7. Click Install. The installation might take a few minutes to complete. Click Show details to view the packages being installed.
 8. Click Next twice, then click Finish to close the installer.
-9. 
+   
 # Instructions for use
 Videos acquired with known acquisition parameters (number of frames and exposure time) can be processed to get the particle trajectory data using Fiji. The custom Python codes provided here can be used on trajectory data with the input file format .xml to compute the particle MSDs and the complex moduli from the estimated MSDs.
 

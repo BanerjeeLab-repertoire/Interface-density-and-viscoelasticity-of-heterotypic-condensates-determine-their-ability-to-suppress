@@ -1,5 +1,5 @@
-# Interface-density-and-viscoelasticity-of-heterotypic-condensates-determine-their-ability-to-suppress
-The repository contains the codes used for processing and analyzing data for the paper - "Interface density and viscoelasticity of heterotypic condensates determine their ability to suppress fibril formation".
+# Viscoelasticity and Interface Properties of Multi-Component Condensates Govern Protein Sequestration and Suppression of Amyloid Formation
+The repository contains the code used for processing and analyzing data for the paper- "Viscoelasticity and Interface Properties of Multi-Component Condensates Govern Protein Sequestration and Suppression of Amyloid Formation".
 
 # Software: Anaconda distribution v2024.10-1
 
